@@ -38,7 +38,7 @@ section .wave.wave2 {
 }
 
 section .wave.wave3 {
-    animation: animate 15s linear infinite;
+    animation: animate 30s linear infinite;
     z-index: 998;
     opacity: 0.2;
     animation-delay: -2s;
@@ -46,7 +46,7 @@ section .wave.wave3 {
 }
 
 section .wave.wave4 {
-    animation: animate 15s linear infinite;
+    animation: animate 5s linear infinite;
     z-index: 997;
     opacity: 0.7;
     animation-delay: -5s;
